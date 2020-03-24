@@ -3,7 +3,7 @@
 
 ## 本网站请求时序图
 
-![请求时序图](./docs/imgs/request-sequence-diagram.jpg)
+![请求时序图](https://images-file.oss-cn-hangzhou.aliyuncs.com/xposed/request-sequence-diagram.jpg)
 
 ## 使用技术和工具
 
