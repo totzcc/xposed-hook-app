@@ -11,7 +11,7 @@
 
 附加: React, Websocket
 
-> 上述工具使用方法自行寻找，这里不做教学， star 超800，开源全部代码
+> 上述工具使用方法自行寻找，这里不做教学， 给个star， 提issue一起交流
 
 ## Hook点寻找思路
 1. 看是否使用 `OKHttpClient`、`Retrofit`
