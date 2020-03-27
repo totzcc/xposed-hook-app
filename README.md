@@ -1,5 +1,4 @@
 ## 成品网站地址 [http://x.bensee.com.cn/](http://x.bensee.com.cn/)
-## 源码购买 http://www.huzhan.com/ishop35733/
 
 ## 本网站请求时序图
 
